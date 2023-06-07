@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡Hello. I'm Medinenur<br>🔭 I'm currently learning ASP.NET and ASP.NET Core.I'm working on SQL and I'm interested in unity.<br>🌱 I’m currently learning<br><br>
+⚡Hello. I'm Medinenur<br>🔭 I'm currently learning ASP.NET and ASP.NET Core. I'm working on SQL and I'm interested in unity.<br>🌱 I’m currently learning<br><br>
 
 
 ## 🌐 Socials:
